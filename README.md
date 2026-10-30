@@ -35,25 +35,17 @@ Not everything here will be polished. Some projects are practical, some are just
 ---
 
 ### SEO Software & Tools
-
 - **Analytics & Tracking:** Google Analytics 4, Google Search Console, Bing Webmaster Tools, Google Tag Manager, CleverTap
-
 - **SEO Research & Auditing:** Screaming Frog, SEO PowerSuite, Semrush, Ahrefs, Sistrix, Keyword.com
-
 - **Content & Optimization:** Surfer SEO, Google Keyword Planner, Rich Results Test
-
 - **CMS & Productivity:** WordPress, Wix, Canva, ClickUp
 
 ---
 
 ### AI Software & Tools
-
 - **AI Assistants:** ChatGPT, Google Gemini, Claude, Perplexity, Grok, Microsoft Copilot
-
 - **AI Models & Platforms:** Google AI Studio, DeepSeek, Mistral AI, Qwen
-
 - **AI Development & Automation:** Lovable, Firebase, n8n
-
 - **AI Audio & Research:** ElevenLabs, NotebookLM
 
 ---
