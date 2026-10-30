@@ -34,19 +34,42 @@ Not everything here will be polished. Some projects are practical, some are just
 
 ---
 
+### SEO Software & Tools
+
+- **Analytics & Tracking:** Google Analytics 4, Google Search Console, Bing Webmaster Tools, Google Tag Manager, CleverTap
+
+- **SEO Research & Auditing:** Screaming Frog, SEO PowerSuite, Semrush, Ahrefs, Sistrix, Keyword.com
+
+- **Content & Optimization:** Surfer SEO, Google Keyword Planner, Rich Results Test
+
+- **CMS & Productivity:** WordPress, Wix, Canva, ClickUp
+
+---
+
+### AI Software & Tools
+
+- **AI Assistants:** ChatGPT, Google Gemini, Claude, Perplexity, Grok, Microsoft Copilot
+
+- **AI Models & Platforms:** Google AI Studio, DeepSeek, Mistral AI, Qwen
+
+- **AI Development & Automation:** Lovable, Firebase, n8n
+
+- **AI Audio & Research:** ElevenLabs, NotebookLM
+
+---
+
 ### 🌐 Find me elsewhere
 
 <p align="left">
-  <a href="https://x.com/navidmotiwala"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X" /></a>
-  <a href="https://www.instagram.com/navidmotiwala/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram" /></a>
-  <a href="https://medium.com/@navidmotiwala"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=flat" alt="Medium" /></a>
-  <a href="https://in.linkedin.com/in/navidmotiwala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" /></a>
-  <a href="https://www.producthunt.com/@navidmotiwala"><img src="https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=white&style=flat" alt="Product Hunt" /></a>
-  <a href="https://bsky.app/profile/navidmotiwala.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white&style=flat" alt="Bluesky" /></a>
-  <a href="https://in.pinterest.com/navidmotiwala/"><img src="https://img.shields.io/badge/Pinterest-BD081C?logo=pinterest&logoColor=white&style=flat" alt="Pinterest" /></a>
-  <a href="https://github.com/navidmotiwala"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" /></a>
-  <a href="https://mastodon.social/@navidmotiwala"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white&style=flat" alt="Mastodon" /></a>
-  <a href="https://stackoverflow.com/users/28139061/navid-motiwala"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=flat" alt="Stack Overflow" /></a>
-  <a href="https://substack.com/@navidmotiwala"><img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white&style=flat" alt="Substack" /></a>
+  <a href="https://x.com/navidmotiwala"><img src="https://api.iconify.design/simple-icons/x.svg?color=%23000000" width="32" height="32" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/navidmotiwala/"><img src="https://api.iconify.design/skill-icons/instagram.svg" width="32" height="32" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@navidmotiwala"><img src="https://api.iconify.design/simple-icons/medium.svg?color=%23000000" width="32" height="32" alt="Medium" /></a>&nbsp;&nbsp;
+  <a href="https://in.linkedin.com/in/navidmotiwala/"><img src="https://api.iconify.design/skill-icons/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.producthunt.com/@navidmotiwala"><img src="https://api.iconify.design/simple-icons/producthunt.svg?color=%23DA552F" width="32" height="32" alt="Product Hunt" /></a>&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/navidmotiwala.bsky.social"><img src="https://api.iconify.design/simple-icons/bluesky.svg?color=%230085FF" width="32" height="32" alt="Bluesky" /></a>&nbsp;&nbsp;
+  <a href="https://in.pinterest.com/navidmotiwala/"><img src="https://api.iconify.design/simple-icons/pinterest.svg?color=%23BD081C" width="32" height="32" alt="Pinterest" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/navidmotiwala"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" width="32" height="32" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://mastodon.social/@navidmotiwala"><img src="https://api.iconify.design/simple-icons/mastodon.svg?color=%236364FF" width="32" height="32" alt="Mastodon" /></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/28139061/navid-motiwala"><img src="https://api.iconify.design/simple-icons/stackoverflow.svg?color=%23F58025" width="32" height="32" alt="Stack Overflow" /></a>&nbsp;&nbsp;
+  <a href="https://substack.com/@navidmotiwala"><img src="https://api.iconify.design/simple-icons/substack.svg?color=%23FF6719" width="32" height="32" alt="Substack" /></a>
 </p>
-
