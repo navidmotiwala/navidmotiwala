@@ -34,12 +34,19 @@ Not everything here will be polished. Some projects are practical, some are just
 
 ---
 
-### Find me elsewhere
+### 🌐 Find me elsewhere
 
-<p>
-  <a href="https://x.com/navidmotiwala"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" /></a>
-  <a href="https://in.linkedin.com/in/navidmotiwala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" /></a>
-  <a href="https://medium.com/@navidmotiwala"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=flat" /></a>
-  <a href="https://www.producthunt.com/@navidmotiwala"><img src="https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=white&style=flat" /></a>
-  <a href="https://github.com/navidmotiwala"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" /></a>
+<p align="left">
+  <a href="https://x.com/navidmotiwala"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X" /></a>
+  <a href="https://www.instagram.com/navidmotiwala/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram" /></a>
+  <a href="https://medium.com/@navidmotiwala"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=flat" alt="Medium" /></a>
+  <a href="https://in.linkedin.com/in/navidmotiwala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" /></a>
+  <a href="https://www.producthunt.com/@navidmotiwala"><img src="https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=white&style=flat" alt="Product Hunt" /></a>
+  <a href="https://bsky.app/profile/navidmotiwala.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white&style=flat" alt="Bluesky" /></a>
+  <a href="https://in.pinterest.com/navidmotiwala/"><img src="https://img.shields.io/badge/Pinterest-BD081C?logo=pinterest&logoColor=white&style=flat" alt="Pinterest" /></a>
+  <a href="https://github.com/navidmotiwala"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" /></a>
+  <a href="https://mastodon.social/@navidmotiwala"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white&style=flat" alt="Mastodon" /></a>
+  <a href="https://stackoverflow.com/users/28139061/navid-motiwala"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=flat" alt="Stack Overflow" /></a>
+  <a href="https://substack.com/@navidmotiwala"><img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white&style=flat" alt="Substack" /></a>
 </p>
+
