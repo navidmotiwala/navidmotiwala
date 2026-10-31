@@ -55,6 +55,7 @@ Not everything here will be polished. Some projects are practical, some are just
 <p align="left">
   <a href="https://x.com/navidmotiwala"><img src="https://api.iconify.design/simple-icons/x.svg?color=%23000000" width="32" height="32" alt="X" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/navidmotiwala/"><img src="https://api.iconify.design/skill-icons/instagram.svg" width="32" height="32" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.quora.com/profile/Navid-Motiwala/"><img src="https://api.iconify.design/simple-icons/quora.svg?color=%23B92B27" width="32" height="32" alt="Quora" /></a>&nbsp;&nbsp;
   <a href="https://medium.com/@navidmotiwala"><img src="https://api.iconify.design/simple-icons/medium.svg?color=%23000000" width="32" height="32" alt="Medium" /></a>&nbsp;&nbsp;
   <a href="https://in.linkedin.com/in/navidmotiwala/"><img src="https://api.iconify.design/skill-icons/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.producthunt.com/@navidmotiwala"><img src="https://api.iconify.design/simple-icons/producthunt.svg?color=%23DA552F" width="32" height="32" alt="Product Hunt" /></a>&nbsp;&nbsp;
